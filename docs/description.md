@@ -17,7 +17,7 @@ There are many existing or developing IoT solutions out there. The use of temper
 
 Project Warden does not only use them in order to do early detection and reporting, we use them as a starting point to intergrate and get the CFRs involved in order to provide the quickest and safest response. It was never meant to only provide on-the-spot evaluation, but an entire effort to get more people involved as lifesavers. It is the connectivity between every IoT devices, from the mentioned temperature sensor and IP camera, to the digital display devices and smart directories. They all come together under this collaboration in order to provide a community solution, overcoming slow response times and shortage of manpower.
 
-![Before and After](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info2.png, "Before and After")
+![Before and After](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info2.jpg, "Before and After")
 
 
 
