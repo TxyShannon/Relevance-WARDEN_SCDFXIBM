@@ -1,6 +1,4 @@
 # Relevance
-===
-
 This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020. 
 
 ## Contents  
@@ -31,4 +29,5 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 ## Live Demo
 
 ## Built with
-
+- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results)
+- [IBM Node Red](https://cloud.ibm.com/catalog?search=node%20red#search_results)
