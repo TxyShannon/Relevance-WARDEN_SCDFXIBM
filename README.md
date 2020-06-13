@@ -15,7 +15,7 @@ Digipen Final year studentpursuing BA in Game Design.
 - Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/weixiangcwx)
 
 A final year student in SIT Digipen pursuing BSc in Real-Time Interactive Simulation. First attempt in a Hackathon is always bitter, but 
-I'm always eager to continue pushing myself harder to strive for the better.
+I'm always eager to continue pushing myself harder and strive for the better.
 
 - Goh Kai Jie, Keith [![LinkedIn badge 4](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/goh-kai-jie-keith)
 
