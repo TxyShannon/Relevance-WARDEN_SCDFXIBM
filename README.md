@@ -10,7 +10,7 @@ Aiming to provide a beneficial solution to society, I hope to one day pitch the 
 
 - Tan Tian Shou [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/tantianshou/)
 
-Charming and attractive individual that is shy and humble
+Digipen Final year studentpursuing BA in Game Design
 
 - Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/chong-wei-xiang-132374188)
 
