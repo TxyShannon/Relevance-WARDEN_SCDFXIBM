@@ -13,6 +13,7 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 8. [Built with](#Built-with)
 
 ## Short Description
+Project Warden is an initiative to shorten the current response time of SCDF. Here in Singapore, there is a new Smart Environment aimed to be completed by 2023 (as of 13 June 2020) - the Punggol Digital District. This project aims to be effective and deployable by the time the Punggol Digital District is completed. Using IoT enabled devices within the district, Project Warden will connect all of them together to better evaluate potential emergencies (specifically fire) instead of solely relying on 1 sensor. Eg; A combination of IP Camera and Heat Sensor to pre-examine before alerting CFRs within the district or officials.
 
 ## Pitch Video
 
