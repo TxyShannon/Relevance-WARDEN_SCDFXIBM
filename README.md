@@ -10,7 +10,7 @@ Aiming to provide a beneficial solution to society, I hope to one day pitch the 
 
 - Tan Tian Shou [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/tantianshou/)
 
-Digipen Final year studentpursuing BA in Game Design
+Digipen Final year studentpursuing BA in Game Design.
 
 - Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/chong-wei-xiang-132374188)
 
@@ -46,7 +46,7 @@ Using temperature sensors and IP Cameras, a smart environment can monitor its vi
 ![architecture png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info1.jpg "Architecture")
 
 ## Long Description
-Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md)
+Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md).
 
 ## Project Roadmap
 ![roadmap png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info3.jpg "Roadmap")
