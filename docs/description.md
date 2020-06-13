@@ -6,8 +6,7 @@ Project Warden is an initiative to create an inter-weaving system of IoT enabled
 
 ## How does Project Warden work?
 Within a Smart Environment, there are bound to be temperature sensors and IP cameras which will all be connected to a single controlling system. When any temperature sensor is triggered over a threshold, the system will search for nearby IP cameras that overseas the coverage of the sensor. The cameras will query the IBM Cloud Service for Object Detection to verify if the area around the sensor has any fire. 
-
-[Architecture Diagram](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info1.jpg)
+![Architecture Diagram](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info1.jpg)
 
 ## Who is notified?
 In the event that the cameras fails to verify or verified a minor disaster, the system will sent out a message to the CFRs within the current Smart Environment. The CFRs will then be on-site to evaluate/salvage the situation, before making a call to inform the authorities. If no CFRs are within the area, a message will be sent to the authorities with attached information such as temperature reading, overall area temperature map, growth of temperature over the past few minutes and nearest IP Camera visuals.
