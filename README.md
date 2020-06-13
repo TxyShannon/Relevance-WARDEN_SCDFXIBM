@@ -5,7 +5,7 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 ## Members
 - Shannon Tan [![LinkedIn badge 1](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/txy-shannon)
 
-I have been through several Game Jam, App Development competitions but this is my very first taste of a Hackathon
+I have been through several Game Jam, App Development competitions but this is my very first taste of a Hackathon.
 Aiming to provide a beneficial solution to society, I hope to one day pitch the next-big idea!
 
 - Tan Tian Shou 
@@ -52,7 +52,9 @@ More description can be found [here](https://github.com/TxyShannon/Relevance-WAR
 
 ## Running the Tests
 
-## Live Demo
+## Work in Progress
+[![Demo_1](https://img.shields.io/badge/Working%20Demo?-Down-Red.svg)](https://project-warden.mybluemix.net/red/#flow/9168237a.a1f8b)
+
 
 ## Built with
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database
