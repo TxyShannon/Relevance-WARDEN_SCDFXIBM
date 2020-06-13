@@ -8,9 +8,12 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 I have been through several Game Jam, App Development competitions but this is my very first taste of a Hackathon
 Aiming to provide a beneficial solution to society, I hope to one day pitch the next-big idea!
 
-- Tan Tian Shou
-- Chong Wei Xiang
-- Goh Kai Jie, Keith
+- Tan Tian Shou 
+- Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/chong-wei-xiang-132374188)
+
+A Dude.
+
+- Goh Kai Jie, Keith [![LinkedIn badge 4](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/goh-kai-jie-keith)
 
 ## Contents  
 1. [Short Description](#Short-Description)
