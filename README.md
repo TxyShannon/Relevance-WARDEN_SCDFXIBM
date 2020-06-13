@@ -54,17 +54,17 @@ Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFX
 
 ## Getting Started
 
-<h5>Tensorflow demo</h5><br/>
+### Tensorflow demo
 Due to the time constraint, only local deployment of the object detection demo is available, in attempt to simulate imaging analysis from the cctv to identify a fire hazard.
 
-<h5>Prerequisite</h5>
+### Prerequisite
 - Webcam
 - A fire (Or a picture of it)
 - You not wearing anything orange
 
 **Note:** You will require Node 8.10.0 or later in your local deployment machine.
 
-<h5>To begin</h5>
+### To begin
 - Navigate to source > TensorFlow > object-detection-webcam-style in your preferred cli
 - Run the App with **npm start**
 - Launch [http://localhost:3000](http://localhost:3000) in your browser.
