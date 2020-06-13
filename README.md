@@ -1,3 +1,4 @@
+![Logo](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Logo.png)
 # Team Relevance - Project Warden
 This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020. 
 
@@ -32,13 +33,13 @@ Using temperature sensors and IP Cameras, a smart environment can monitor its vi
 ## Pitch Video
 
 ## Architecture
-![architecture png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Architecture.PNG "Architecture")
+![architecture png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info1.jpg "Architecture")
 
 ## Long Description
 More description can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md)
 
 ## Project Roadmap
-![roadmap png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/roadmap.PNG "Roadmap")
+![roadmap png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info3.jpg "Roadmap")
 
 ## Getting Started
 
