@@ -17,6 +17,7 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 ## Pitch Video
 
 ## Architecture
+![architecture png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Architecture.PNG "Architecture")
 
 ## Long Description
 More description can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md)
