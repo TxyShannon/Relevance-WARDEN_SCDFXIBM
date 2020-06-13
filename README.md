@@ -10,7 +10,8 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 6. [Getting Started](#Getting-Started)
 7. [Running the Tests](#Running-the-Tests)
 8. [Live Demo](#Live-Demo)
-8. [Built with](#Built-with)
+9. [Built with](#Built-with)
+10. [Acknowledgement](#Acknowledgement)
 
 ## Short Description
 ### What's the problem?
@@ -42,3 +43,5 @@ More description can be found [here](https://github.com/TxyShannon/Relevance-WAR
 ## Built with
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database
 - [IBM Node Red](https://cloud.ibm.com/catalog?search=node%20red#search_results) - Communication between IoT enabled devices
+
+## Acknowledgement
