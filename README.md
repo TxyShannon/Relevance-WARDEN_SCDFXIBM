@@ -13,7 +13,14 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 8. [Built with](#Built-with)
 
 ## Short Description
-Project Warden is an initiative to shorten the current response time of SCDF. Here in Singapore, there is a new Smart Environment aimed to be completed by 2023 (as of 13 June 2020) - the Punggol Digital District. This project aims to be effective and deployable by the time the Punggol Digital District is completed. Using IoT enabled devices within the district, Project Warden will connect all of them together to better evaluate potential emergencies (specifically fire) instead of solely relying on 1 sensor. Eg; A combination of IP Camera and Heat Sensor to pre-examine before alerting CFRs within the district or officials.
+### What's the problem?
+Infrastructure is getting “smart”, with sensors and Internet of things (IoT) increasingly embedded in the built environment. We need to leverage the existence of these devices to help quicken the response time for disasters (such as developing fires) whilst cutting down the need of manpower. 
+
+### How can technology help?
+With Iot enabled sensors, inter-weaving systems can be set in place to continuously monitor a wide area to perform intervention of potential disasters with the aid of the public. These intervention will reduce the need for emergency resources.
+
+### The idea
+Using temperature sensors and IP Cameras, a smart environment can monitor its vicinity and request assistance from the public. When a temperature sensor is triggered, the inter-weaving system can use a nearby IP Camera to perform Object Detection as verification of a potential disaster. If the situation is un-examinable or if it is minor, the system can prompt nearby public members to provide human evaluation of the affected area. Else, the system would immediately notify authorities. This enables a quick initial response. 
 
 ## Pitch Video
 
