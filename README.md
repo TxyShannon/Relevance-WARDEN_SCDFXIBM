@@ -1,4 +1,5 @@
 # Relevance
+===
 
 This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020. 
 
@@ -8,16 +9,6 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 ...snip...    
 <a name="headers"/>
 ## Headers
-Three or more...
 
-===
 
-Hyphens
 
-***
-
-Asterisks
-
-___
-
-Underscores
