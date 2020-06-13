@@ -8,6 +8,12 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 ⋅⋅⋅I have been through several Game Jam, App Development competitions but this is my very first taste of a Hackathon⋅⋅
 ⋅⋅⋅Aiming to provide a beneficial solution to society, I hope to one day pitch the next-big idea!
 
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+
 - Tan Tian Shou
 - Chong Wei Xiang
 - Goh Kai Jie, Keith
