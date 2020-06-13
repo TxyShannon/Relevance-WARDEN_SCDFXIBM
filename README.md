@@ -4,6 +4,7 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 
 ## Members
 - Shannon Tan  
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="txy-shannon"><a class="LI-simple-link" href='https://sg.linkedin.com/in/txy-shannon?trk=profile-badge'>Shannon Tan</a></div>
 - Tan Tian Shou
 - Chong Wei Xiang
 - Goh Kai Jie, Keith
