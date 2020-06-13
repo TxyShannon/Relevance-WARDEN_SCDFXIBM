@@ -53,7 +53,7 @@ More description can be found [here](https://github.com/TxyShannon/Relevance-WAR
 ## Running the Tests
 
 ## Work in Progress
-[![Demo_1](https://img.shields.io/badge/Working%20Demo?-Down-Red.svg)](https://project-warden.mybluemix.net/red/#flow/9168237a.a1f8b)
+[![Demo_1](https://img.shields.io/badge/NodeRed-Down-Red.svg)](https://project-warden.mybluemix.net/red/#flow/9168237a.a1f8b)
 
 
 ## Built with
