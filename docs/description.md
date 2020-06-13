@@ -1,7 +1,7 @@
 ## What is Project Warden?
 Wide Area Responsive District Emergency Network.
 
-Project Warden is an initiative to create an inter-weaving system for IoT enabled devices within a Smart Environment. (Punggol Digital District in Singapore). As the Smart Environment is constructed ground up with the intention of embedding multiple IoT sensors, Project Warden requires no additional implementation cost in terms of IoT devices. We simply make use of the existing devices within the Smart Environment to help determine potential disasters. It primarily tackles **slow response times** and **shortage of manpower** .
+Project Warden is an initiative to create an inter-weaving system of IoT enabled devices within a Smart Environment (Punggol Digital District in Singapore). As the Smart Environment is constructed ground up with the intention of embedding multiple IoT sensors, Project Warden requires no additional implementation cost in terms of IoT devices. We simply make use of the existing devices within the Smart Environment to help determine potential disasters. It primarily tackles **slow response times** and **shortage of manpower** .
 
 ## How does Project Warden work?
 Within a Smart Environment, there are bound to be temperature sensors and IP cameras which will all be connected to a single controlling system. When any temperature sensor is triggered over a threshold, the system will search for nearby IP cameras that overseas the coverage of the sensor. The cameras will query the IBM Cloud Service for Object Detection to verify if the area around the sensor has any fire. 
