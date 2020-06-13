@@ -46,7 +46,7 @@ Using temperature sensors and IP Cameras, a smart environment can monitor its vi
 ![architecture png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info1.jpg "Architecture")
 
 ## Long Description
-More description can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md)
+Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md)
 
 ## Project Roadmap
 ![roadmap png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info3.jpg "Roadmap")
