@@ -3,12 +3,39 @@
 
 This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020. 
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+## Contents  
+===
+
+## Short Description
+===
+
+## Pitch Video
+===
 
 
+## Architecture
+===
+
+
+## Long Description
+===
+
+
+## Project Roadmap
+===
+
+
+## Getting Started
+===
+
+
+## Running the Tests
+===
+
+
+## Live Demo
+===
+
+## Built with
+===
 
