@@ -19,6 +19,7 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 ## Architecture
 
 ## Long Description
+More description can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/description.md)
 
 ## Project Roadmap
 ![roadmap png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/roadmap.PNG "Roadmap")
