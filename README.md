@@ -54,7 +54,7 @@ Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFX
 
 ## Getting Started
 
-Tensorflow demo
+Tensorflow demo &nbsp
 Due to the time constraint, only local deployment of the object detection demo is available, in attempt to simulate imaging analysis from the cctv to identify a fire hazard.
 
 Prerequisite
@@ -83,6 +83,6 @@ By intended behavior eventually, the webcam should be pinging node-red with a bo
 - [IBM Node Red](https://cloud.ibm.com/catalog?search=node%20red#search_results) - Communication between IoT enabled devices
 
 ## Acknowledgement
-object-detection-live-stream project, buordakos1, for providing the initial framework
+object-detection-live-stream project, buordakos1, for providing the initial framework &nbsp
 node-red tutorials for helping alot
 
