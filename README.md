@@ -14,7 +14,8 @@ Digipen Final year studentpursuing BA in Game Design.
 
 - Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/chong-wei-xiang-132374188)
 
-A Dude.
+A final year student in SIT Digipen pursuing BSc in Real-Time Interactive Simulation. First attempt in a Hackathon is always bitter, but 
+I'm always eager to continue pushing myself harder to strive for the better.
 
 - Goh Kai Jie, Keith [![LinkedIn badge 4](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/goh-kai-jie-keith)
 
@@ -53,6 +54,24 @@ Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFX
 
 ## Getting Started
 
+Tensorflow demo
+Due to the time constraint, only local deployment of the object detection demo is available, in attempt to simulate imaging analysis from the cctv to identify a fire hazard.
+
+Prerequisite
+- Webcam
+- A fire (Or a picture of it)
+- You not wearing anything orange
+
+Note: You will require Node 8.10.0 or later in your local deployment machine.
+
+To begin
+- Navigate to source > TensorFlow > object-detection-webcam-style in your preferred cli
+- Run the App with 'npm start'
+- Launch [http://localhost:3000](http://localhost:3000) in your browser.
+- A pop-up should appear to indicate permission for webcam access. Click "Allow" to gain access to the webcam.
+
+By intended behavior eventually, the webcam should be pinging node-red with a boolean of "true" when a fire is detected, and "false" when it is not.
+
 ## Running the Tests
 
 ## Work in Progress
@@ -64,3 +83,6 @@ Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFX
 - [IBM Node Red](https://cloud.ibm.com/catalog?search=node%20red#search_results) - Communication between IoT enabled devices
 
 ## Acknowledgement
+object-detection-live-stream project, buordakos1, for providing the initial framework
+node-red tutorials for helping alot
+
