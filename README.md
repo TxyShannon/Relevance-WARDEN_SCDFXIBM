@@ -55,7 +55,7 @@ Details can be found [here](https://github.com/TxyShannon/Relevance-WARDEN_SCDFX
 ## Getting Started
 
 ### Tensorflow demo
-Due to the time constraint, only local deployment of the object detection demo is available, in attempt to simulate imaging analysis from the cctv to identify a fire hazard.
+Due to the time constraint, only local deployment of the object detection demo is available, in attempt to simulate imaging analysis from an ip camera to identify a fire hazard.
 
 ### Prerequisite
 - Webcam
