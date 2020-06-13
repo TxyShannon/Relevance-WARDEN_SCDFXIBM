@@ -3,7 +3,10 @@
 This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020. 
 
 ## Members
-- Shannon Tan [![LinkedIn badge 1](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/txy-shannon)
+- Shannon Tan 
+...[![LinkedIn badge 1](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/txy-shannon)
+...An ambitious, strategic thinker who craves opportunity and growth. In my prior studies, I have had many opportunities to plan events ...and have taken a liking in project management. This is further boosted by my experience in university doing game development projects ...where I have worked as Producer, Gameplay, Engine and Editor programmer. 
+
 - Tan Tian Shou
 - Chong Wei Xiang
 - Goh Kai Jie, Keith
