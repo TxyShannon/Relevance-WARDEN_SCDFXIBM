@@ -3,7 +3,7 @@ This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020.
 
 ## Contents  
 1. [Short Description](#Short-Description)
-2. [Pitch Vide](#Pitch-Video)
+2. [Pitch Video](#Pitch-Video)
 3. [Architecture](#Architecture)
 4. [Long Description](#Long-Description)
 5. [Project Roadmap](#Project-Roadmap)
