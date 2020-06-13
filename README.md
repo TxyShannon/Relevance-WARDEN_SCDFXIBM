@@ -12,7 +12,7 @@ Aiming to provide a beneficial solution to society, I hope to one day pitch the 
 
 Digipen Final year studentpursuing BA in Game Design.
 
-- Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/chong-wei-xiang-132374188)
+- Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/weixiangcwx)
 
 A final year student in SIT Digipen pursuing BSc in Real-Time Interactive Simulation. First attempt in a Hackathon is always bitter, but 
 I'm always eager to continue pushing myself harder to strive for the better.
