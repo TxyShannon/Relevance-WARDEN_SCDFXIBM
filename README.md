@@ -44,7 +44,7 @@ With Iot enabled sensors, inter-weaving systems can be set in place to continuou
 Using temperature sensors and IP Cameras, a smart environment can monitor its vicinity and request assistance from the public. When a temperature sensor is triggered, the inter-weaving system can use a nearby IP Camera to perform Object Detection as verification of a potential disaster. If the situation is un-examinable or if it is minor, the system can prompt nearby public members to provide human evaluation of the affected area. Else, the system would immediately notify authorities. This enables a quick initial response. 
 
 ## Pitch Video
-[![Click Here]](https://youtu.be/UH568Olv_Ws)
+[Click Here](https://youtu.be/UH568Olv_Ws)
 
 ## Architecture
 ![architecture png](https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Info1.jpg "Architecture")
