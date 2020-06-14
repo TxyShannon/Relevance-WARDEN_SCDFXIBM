@@ -84,6 +84,7 @@ By intended behavior eventually, the webcam should be pinging node-red with a bo
 - [IBM Machine Learning](https://cloud.ibm.com/catalog?search=Watson%20Machine%20Learning#search_results) - Training Model
 
 ## Acknowledgement
- - object-detection-live-stream project, buordakos1, for providing the initial framework <br/>
- - node-red tutorials for helping alot
+- [The Descent](https://incompetech.filmmusic.io/song/4490-the-descent) by Kevin MacLeod  [![Demo_1](https://img.shields.io/badge/License-CC-Green.svg)](http://creativecommons.org/licenses/by/4.0/)
+- object-detection-live-stream project, buordakos1, for providing the initial framework <br/>
+- node-red tutorials for helping alot
 
