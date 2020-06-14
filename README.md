@@ -19,6 +19,8 @@ I'm always eager to continue pushing myself harder and strive for the better.
 
 - Goh Kai Jie, Keith [![LinkedIn badge 4](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/goh-kai-jie-keith)
 
+Always down to learn more
+
 ## Contents  
 1. [Short Description](#Short-Description)
 2. [Pitch Video](#Pitch-Video)
