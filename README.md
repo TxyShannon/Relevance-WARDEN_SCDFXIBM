@@ -3,12 +3,12 @@
 This is a project done for SCDFxIBM Lifesaver's Innovation Challenge 2020. 
 
 ## Members
-- Shannon Tan [![LinkedIn badge 1](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/txy-shannon)
+- Shannon Tan [![LinkedIn badge 1](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/txy-shannon)
 
 I have been through several Game Jam, App Development competitions but this is my very first taste of a Hackathon.
 Aiming to provide a beneficial solution to society, I hope to one day pitch the next-big idea!
 
-- Tan Tian Shou [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/tantianshou/)
+- Tan Tian Shou [![LinkedIn badge 2](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/tantianshou/)
 
 Digipen Final year student pursuing BA in Game Design. Enjoys competition but even more so the camaraderie and memories that are build within it.
 
@@ -17,7 +17,7 @@ Digipen Final year student pursuing BA in Game Design. Enjoys competition but ev
 A final year student in SIT Digipen pursuing BSc in Real-Time Interactive Simulation. First attempt in a Hackathon is always bitter, but 
 I'm always eager to continue pushing myself harder and strive for the better.
 
-- Goh Kai Jie, Keith [![LinkedIn badge 4](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](linkedin.com/in/goh-kai-jie-keith)
+- Goh Kai Jie, Keith [![LinkedIn badge 4](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/goh-kai-jie-keith)
 
 Always down to learn more
 
