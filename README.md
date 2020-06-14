@@ -10,7 +10,7 @@ Aiming to provide a beneficial solution to society, I hope to one day pitch the 
 
 - Tan Tian Shou [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/tantianshou/)
 
-Digipen Final year studentpursuing BA in Game Design.
+Digipen Final year student pursuing BA in Game Design. Enjoys competition but even more so the camaraderie and memories that are build within it.
 
 - Chong Wei Xiang [![LinkedIn badge 3](https://img.shields.io/badge/LinkedIn-Connect-Blue.svg)](https://www.linkedin.com/in/weixiangcwx)
 
