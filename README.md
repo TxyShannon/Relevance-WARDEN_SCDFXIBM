@@ -72,11 +72,8 @@ Due to the time constraint, only local deployment of the object detection demo i
 
 By intended behavior eventually, the webcam should be pinging node-red with a boolean of "true" when a fire is detected, and "false" when it is not.
 
-## Running the Tests
-
 ## Work in Progress
 [![Demo_1](https://img.shields.io/badge/NodeRed-Down-Red.svg)](https://project-warden.mybluemix.net/red/#flow/9168237a.a1f8b)
-
 
 ## Built with
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database
