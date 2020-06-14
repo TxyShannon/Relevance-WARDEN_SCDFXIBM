@@ -81,6 +81,7 @@ By intended behavior eventually, the webcam should be pinging node-red with a bo
 ## Built with
 - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - Database
 - [IBM Node Red](https://cloud.ibm.com/catalog?search=node%20red#search_results) - Communication between IoT enabled devices
+- [IBM Machine Learning](https://cloud.ibm.com/catalog?search=Watson%20Machine%20Learning#search_results) - Training Model
 
 ## Acknowledgement
  - object-detection-live-stream project, buordakos1, for providing the initial framework <br/>
