@@ -45,7 +45,7 @@ Using temperature sensors and IP Cameras, a smart environment can monitor its vi
 
 ## Pitch Video
 <a href="https://youtu.be/UH568Olv_Ws
-" target="_blank"><img src="https://youtu.be/UH568Olv_Ws/0.jpg" 
+" target="_blank"><img src="https://github.com/TxyShannon/Relevance-WARDEN_SCDFXIBM/blob/master/docs/Logo.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
